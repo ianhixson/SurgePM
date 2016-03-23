@@ -15,6 +15,7 @@ var response = $.ajax({
   },
   complete: function (request)
   {
-    console.log(response);
+    $('#results').html(JSON.stringify(response));
+    console.debug(response);
   }
 });
