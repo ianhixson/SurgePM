@@ -11,7 +11,10 @@ var response = $.ajax({
   crossDomain: true,
   beforeSend: function (request)
   {
-    request.setRequestHeader("Authorization", "qJxLLD_mhPA3vQYt-z3nYoNxRuZpuP2Xcl8jXiat");
+    request.setRequestHeader("Authorization", "Token qJxLLD_mhPA3vQYt-z3nYoNxRuZpuP2Xcl8jXiat");
+  },
+  complete: function (request)
+  {
+    console.log(response);
   }
 });
-console.log(response);
