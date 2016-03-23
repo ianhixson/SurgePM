@@ -1,0 +1,6 @@
+div#results {
+  position: absolute;
+  width: 80%;
+  left: 5%;
+  word-wrap: break-word;
+}

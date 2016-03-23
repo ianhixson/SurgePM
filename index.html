@@ -2,14 +2,27 @@
   <html>
   <head>
   	<title>SurgePM 0.1</title>
-  	<!--<link href="css/style.css" rel="stylesheet" media="screen">-->
+  	  <link href="style.css" rel="stylesheet" media="screen">
       <script src="http://code.jquery.com/jquery.js"></script>
       <script src="api_query.js"></script>
   </head>
   <body>
     <pre>
-    <div id="results" style="word-wrap:break-word">
-    </div>
-  </pre>
+
+    <h1>surgepm alpha v0.1</h1>
+
+    <h2>input</h2>
+
+    <form>
+      start latitude <input type=textarea id="startlat"></input>
+      start longitude <input type=textarea id="startlong"></input>
+      <button id="go">go</button>
+    </form>
+
+    <h2>results</h2>
+      <div id="results">
+      </div>
+
+    </pre>
 </body>
 </html>
