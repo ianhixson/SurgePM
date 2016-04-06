@@ -1,0 +1,23 @@
+Latitude and Longitute coordinates are in individual files in this directory.
+They follow the naming here
+
+
+NE 33rd and Freemont -- NE Portland 								45.548072,-122.6319168
+					} same zone ???
+Ne 9th and Broadway --  Irvington								45.5350589,-122.6565732
+
+NE Multnomah St & NE Wheeler Ave -- Rose Quarter
+
+N Interstate and Rosa Parks Way -- North Portland
+
+N Smith St & N Oswego Ave -- ST. Johns
+
+SE Hawthorne and 30th -- Belmont
+
+SE 92nd Ave & SE Mill St -- Past Tabor
+
+SW 11th & Burnside -- Downtown Portland
+
+35th and caldew sw -- Hillsdale
+
+SW 107th ave and SW laurel st -- Beaverton 
